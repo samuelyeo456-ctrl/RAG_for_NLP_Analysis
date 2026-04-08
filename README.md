@@ -3,6 +3,7 @@
 This is a Python based RAG project where insights can be found from survey data. Additionally, LLM-evaluation metrics, and topic modelling techniques are used.
 
 
+The project covers the following process:
 1. Data Preprocessing Techniques
    - Text Refinement: Comprehensive Regular Expressions (Regex) to remove filler words
    - Greedy Chunking: It splits the long transcripts into smaller, 1000-character "chunks" with a 200-character overlap
