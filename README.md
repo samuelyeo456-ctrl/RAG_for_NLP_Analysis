@@ -9,4 +9,4 @@ Topic Modelling Techniques
 
 RAG Techniques
 - Local-based using FAISS
-- CLoud-based using OpenAI GPT
+- CLoud-based using OpenAI GPT4.1 mini
